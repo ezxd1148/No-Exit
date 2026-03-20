@@ -16,6 +16,13 @@ Animation:
 - Building is seen normal
 - Deep down user will know building is corrupted
 
+Explanation:
+
+- Grab Driver tu nak hantar makanan dekat condo
+- Waktu nak hantar tu dia taktahu condo tu berhantu
+- Tapi dia pergi je
+- Lalu ada gangguan
+
 ## Minimum Viable Product (MVP)
 
 ### Objective
